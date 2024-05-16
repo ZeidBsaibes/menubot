@@ -1,0 +1,76 @@
+Here is the parsed menu in CSV format:
+
+Menu Section|Menu Item|Description|Price
+Snacks|Fish Sauce Chilli Wing||3.8
+Snacks|Fried Chicken Skin||4.0
+Snacks|Nahm Prik Pao + Mussels||6.0
+Snacks|'Ceviche' Trout Belly + Flourish Herbs||13.0
+Snacks|Sambal Luat + Langoustines||12.0
+Snacks|Green Nahm Jim + Cockles||6.0
+Mains|Fried Chicken||9.5
+Mains|BBQ Spare Ribs||17.0
+Mains|Massaman Smoked Short Rib||38.0
+Mains|Fried Egg Rice Noodles + Lardo||11.0
+Mains|Moo Hong Braised Belly||22.6
+Mains|Gaeng Som, Damsons + Fish||18.0
+Salads|Green Tomato, Dried Shrimp + Peanut Salad||8.4
+Salads|Yum Pla Ra Plum + Nasturtium||12.5
+Salads|BBQ Beef Heart, Coriander + Peanut Salad||12.0
+Salads|Nahm D'tok Smoked Aubergine + Egg||12.0
+Sides|Stir Fried Courgettes, Tamworth + Soy Bean||10.0
+Sides|Kra Pow Smoked Mutton||16.0
+Sides|White Cabbage + Fish Sauce||6.5
+Sides|Jasmine Rice||3.0
+Sides|All Dips||6.0
+Cocktails|America Eat's its Young|Vodka, Tomato, Fish Sauce & Chilli|10.0
+Cocktails|Locked & Loaded|Mekhong, Almond, Mango & Makrut|10.0
+Cocktails|Beware Dub|Tequila, Chilli & Lime|9.9
+Cocktails|Most Things Haven't Worked Out|Coconut Rum, Thai Basil & Lime|9.9
+Cocktails|Three Piece Suit|Gin, Suze & Sweet Vermouth|10.5
+Cocktails|Maggot Brain|Rye, Chilli & Bangladeshi Lime|11.5
+Cocktails|Celestial Blues|Mezcal, Lychee & Peaflower|11.5
+Cocktails|Heavier Than a Death in the Family|Rum, Coconut & Pineapple|10.5
+Cocktails|Slicker Than Most|Gin, Turmeric & Lemon|10.5
+Cocktails|Tray of Joy All In||25.0
+Cocktails|Kumquat Liqueur|Greece|4.5
+Cocktails|Cherry Blossom|Japan|5.5
+Cocktails|Coffee Liqueur|Guatemala|5.5
+Cocktails|Licor 43|Spain|4.0
+Cocktails|Creme de Violet|Germany|5.0
+Cocktails|Banana Liqueur|France|5.0
+Beer|Jupiler Alcohol Free Lager|0%|3.9
+Beer|Big Drop Pine Trail|0.5%|4.5
+Wine|Michaela|Piquette 4%, 175ml/Bot|5.0/20.0
+Wine|Red|Piquette 4%, 175ml/Bot|5.0/20.0
+Soft Drinks|Fermented Pineapple Soda||4.0
+Soft Drinks|Sour Raspberry Soda||4.0
+Soft Drinks|Purple Lemonade||4.0
+Soft Drinks|Spicy Tomato Juice||5.0
+Soft Drinks|Spiced Coconut Lemonade||4.0
+Beer on Tap|Freedom Lager|2/3 Pint|4.6
+Beer on Tap|Five Points Pale Ale|2/3 Pint|4.6
+Beer on Tap|Lost & Grounded Keller Pils|2/3 Pint|4.6
+Beer on Tap|Lervig House Party IPA|2/3 Pint|5.0
+Beer on Tap|Cherry Fizz Sour|2/3 Pint|4.9
+Cider|Pere Jules Brut|France, 175ml/Bot|4.5/20.0
+Cider|Fruktstereo Apple Road|Sweden, 175ml/Bot|36.0
+Cider|Brighter Cider of Life|France, 175ml/Bot|34.0
+Cider|Anders Steen Cider|Ardèche, 175ml/Bot|40.0
+White Wine|Catarratto|Valdibella, Sicily, Italy, 125ml/Btl|5.3/29.0
+White Wine|Lanquidity, Muscadet|Vini Libre, Loire, France, 125ml/Btl|6.5/36.0
+White Wine|Coyade, Macabeu|Domaine Vinci, Languedoc, France, 125ml/Btl|8.7/48.0
+White Wine|Damned (Bubbles)|La Petit Baigneuse, Rousillon, France, 125ml/Btl|9.1/50.0
+White Wine|Grüner Veltliner|Malinga, Kamptal, Austria, 125ml/Btl|9.1/50.0
+White Wine|Bianco Trilli (Orange)|Gazzetta, Lazio, Italy, 125ml/Btl|10.3/57.0
+Red Wine|Arkestra Rosso|Il Farneto, Emilia-Romagna, Italy, 125ml/Btl|5.3/29.0
+Red Wine|El Plantarga, Trepat (Pink)|Carlania Celler, Catalonia, 125ml/Btl|6.9/38.0
+Red Wine|Turi Rosso, Nero d'Avola|Salvatore Marino, Sicily, Italy, 125ml/Btl|7.1/39.0
+Red Wine|Roc, Grenache Noir|Domaine Vinci, Languedoc, France, 125ml/Btl|7.6/42.0
+Red Wine|Asteroid Rouge, Cinsault|Fond Cypres, Corbiéres, France, 125ml/Btl|10.0/55.0
+Red Wine|Zin Contact! 2018|SMW, California, USA, 125ml/Btl|10.5/58.0
+
+Metadata,
+restaurantName,Smoking Goat
+location,Shoreditch 
+website,smokinggoat.com
+cuisine,Thai
