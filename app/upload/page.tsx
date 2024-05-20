@@ -53,7 +53,10 @@ const PdfUploadForm = () => {
   return (
     <form onSubmit={handleSubmit} className="max-w-md mx-auto">
       <div className="mb-4">
-        <label htmlFor="pdfUpload" className="block mb-2 font-bold text-white">
+        <label
+          htmlFor="pdfUpload"
+          className="block mb-2 font-bold text-dark dark:text-white"
+        >
           Upload PDF
         </label>
         <input
@@ -67,7 +70,7 @@ const PdfUploadForm = () => {
       <div className="mb-4">
         <label
           htmlFor="restaurantName"
-          className="block mb-2 font-bold text-white"
+          className="block mb-2 font-bold text-black dark:text-white"
         >
           Restaurant Name
         </label>
@@ -80,7 +83,10 @@ const PdfUploadForm = () => {
         />
       </div>
       <div className="mb-4">
-        <label htmlFor="location" className="block mb-2 font-bold text-white">
+        <label
+          htmlFor="location"
+          className="block mb-2 font-bold text-black dark:text-white"
+        >
           Location
         </label>
         <input
@@ -88,11 +94,14 @@ const PdfUploadForm = () => {
           id="location"
           value={location}
           onChange={(e) => setLocation(e.target.value)}
-          className="w-full px-3 py-2 text-black border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+          className="w-full px-3 py-2 text-black  border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
         />
       </div>
       <div className="mb-4">
-        <label htmlFor="website" className="block mb-2 font-bold text-white">
+        <label
+          htmlFor="website"
+          className="block mb-2 font-bold text-black dark:text-white"
+        >
           Website
         </label>
         <input
@@ -104,7 +113,10 @@ const PdfUploadForm = () => {
         />
       </div>
       <div className="mb-4">
-        <label htmlFor="cuisine" className="block mb-2 font-bold text-white">
+        <label
+          htmlFor="cuisine"
+          className="block mb-2 font-bold text-black dark:text-white"
+        >
           Cuisine
         </label>
         <input

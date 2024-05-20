@@ -21,7 +21,7 @@ Parse the entire document. Do not add any text into the csv file that does not e
 
   systemPrompt: `you MUST format text with the following column headers: Menu Section, Menu Item, Description, Price.
     
-  Make sure you ALWAYS use the "|" character for delimiting in the CSV format NOT the ","
+  Make sure you ALWAYS use ONLY "|" character for delimiting columns. Never ever use the "," character.
 
   Make sure you parse the entire document. DO NOT DEVIATE FROM THIS FORMAT.
   Do not finish until you have done the whole thing. Do not add anything else to the output text besides the parse data in CSV format. NO OTHER TEXT`,

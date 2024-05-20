@@ -1,69 +1,69 @@
-Menu Section,Menu Item,Description,Price
-House Cocktails,The Rules,"Tanqueray Ten, Dubonnet & Vintage Crémant",13.95
-House Cocktails,Kate Middleton's "Royal 29","Sipsmith, Pinky Vodka, Lillet & Crystallised Violets",14.95
-House Cocktails,A Kiss for Lillie,"Kings Ginger, Cocchi & Joseph Perrier NV Champagne",15.95
-House Cocktails,London Pride - Draught Guinness,Served in silver tankards,5.95
-House Cocktails,Black Velvet,Champagne & Guinness,11.95
-Starters,Jersey Rock Oysters,,2.5
-Starters,Native Oysters,,4.0
-Starters,Fines de Claires Oysters,,2.5
-Starters,Game Muligatawny Soup,with yoghurt & coriander,8.95
-Starters,Smoked Eel Salad,with bacon, hazelnuts & apple purée,12.95
-Starters,Pumpkin Soup,with wild mushrooms & sage,7.95
-Starters,Rabbit Rillette,with lentils, dandelion salad & a grain mustard dressing,11.95
-Starters,Quince Salad,with stilton & chestnuts,11.5
-Starters,Quince Salad,large,17.5
-Starters,Potted Shrimps,with granary bread,13.95
-Starters,Game & Foie Gras Terrine,with pear chutney,16.95
-Starters,Uig Lodge Smoked Salmon,,14.95
-Starters,Uig Lodge Smoked Salmon,large,22.0
-Starters,Uig Lodge Smoked Salmon,with or without scrambled eggs,
-Starters,Crab Salad,with avocado & lemon mayonnaise,16.95
-Pies and Puddings,Steak & Kidney Pie,with a hand raised pastry crust,17.95
-Pies and Puddings,Steamed Steak & Kidney Suet Pudding,,17.95
-Pies and Puddings,Steamed Steak & Kidney Suet Pudding,with oyster,18.95
-Pies and Puddings,Wild Boar & Mushroom Pie,with a puff pastry crust,19.95
-Main Courses,Wild Rabbit Hotpot,with cider, onions & bacon,22.95
-Main Courses,Darne of Loch Duart Salmon,with mussels, garam masala & cream,23.95
-Main Courses,Rump of Lake District Lamb,with haggis bubble & squeak,24.95
-Main Courses,Braised Pig's Cheeks & Black Pudding,with lentils & roast apple,24.95
-Main Courses,Rib of Beef for two (850g),with dauphinoise potatoes, roast shallot & Yorkshire Pudding,32.5
-Main Courses,Daube of Beef,with creamed potato, lardons & Chantenay carrots,24.95
-Main Courses,Rump Steak,with mushrooms, garlic & parsley,26.95
-Main Courses,Fillet of Halibut,with a mushroom duxelle, salsify, port & red wine sauce,29.95
-Wild Game,Pheasant Curry,with basmati rice & poppadoms,22.95
-Wild Game,Whole Roast Crown of Pheasant for two,with smoked sausage, bacon & braised carrots,19.95
-Wild Game,Roast Leg of Hare,with braised shoulder, prunes, chestnuts & mashed potato,23.95
-Wild Game,Roast Crown of Wild Duck,with pressed leg, creamed Savoy cabbage & quince,27.95
-Wild Game,Roast Red Leg Partridge,with sausage, swiss chard & roast squash,25.95
-Wild Game,Loin of Venison,with red cabbage & roast celeriac,36.95
-Wild Game,Blackgame,Ptarmigan,Woodcock,Pochard,Teal,Snipe & Widgeon subject to availability and served traditionally. Game dishes may contain lead shot.,,
-Vegetables & Salads,Red Cabbage,,4.5
-Vegetables & Salads,Swiss Chard,,4.5
-Vegetables & Salads,Puy Lentils,,4.5
-Vegetables & Salads,Buttered Greens,,4.5
-Vegetables & Salads,Potatoes (roast, mash or chips),,4.5
-Vegetables & Salads,Green Salad,,8.5
-Vegetables & Salads,Beetroot & Goat's Cheese Salad,,8.95
-Puddings & Cheese,Apple Parfait,with autumn berries,7.95
-Puddings & Cheese,Bakewell Tart,with clotted cream,7.95
-Puddings & Cheese,Roast Spiced Pear,with honeycomb & chocolate sorbet,7.95
-Puddings & Cheese,Sticky Toffee Pudding,with caramelised walnuts,7.95
-Puddings & Cheese,Queen of Puddings,with marmalade,7.95
-Puddings & Cheese,Golden Syrup Sponge Pudding,with custard,7.95
-Puddings & Cheese,Custard Tart,with prunes,7.95
-Puddings & Cheese,Apple & Quince Crumble,with custard,7.95
-Puddings & Cheese,A Selection of Ice Creams & Sorbets,made on the premises,7.95
-Puddings & Cheese,Apple Tart Tatin,with vanilla ice cream,7.95
-Puddings & Cheese,Moist Chocolate & Hazelnut Cake (gluten free),with praline crème fraîche,7.95
-Puddings & Cheese,Cropwell Bishop Stilton,with a selection of biscuits,11.95
-Puddings & Cheese,English Cheese Plate,,10.95
-Coffees & Leaf Teas,Cappuccino,espresso,americano,macchiato & regular,3.5
-Coffees & Leaf Teas,Peppermint tea,fresh mint,Darjeeling,Ceylon & Earl Grey,3.5
-Coffees & Leaf Teas,Chocolate Truffles,,3.5
+Menu Section|Menu Item|Description|Price
+Starters|Jersey Rock Oysters||£2.50 each
+Starters|Native Oysters||£4.00 each
+Starters|Fines de Claires Oysters||£2.50 each
+Starters|Game Muligatawny Soup|with yoghurt & coriander|£8.95
+Starters|Smoked Eel Salad|with bacon, hazelnuts & apple purée|£12.95
+Starters|Pumpkin Soup|with wild mushrooms & sage|£7.95
+Starters|Rabbit Rillette|with lentils, dandelion salad & a grain mustard dressing|£11.95
+Starters|Quince Salad||£11.50
+Starters|Quince Salad|large|£17.50
+Starters|Potted Shrimps|with granary bread|£13.95
+Starters|Game & Foie Gras Terrine|with pear chutney|£16.95
+Starters|Uig Lodge Smoked Salmon||£14.95
+Starters|Uig Lodge Smoked Salmon|large|£22.00
+Starters|Uig Lodge Smoked Salmon|with or without scrambled eggs|
+Starters|Crab Salad|with avocado & lemon mayonnaise|£16.95
+Pies and Puddings|Steak & Kidney Pie|with a hand raised pastry crust|£17.95
+Pies and Puddings|Steamed Steak & Kidney Suet Pudding||£17.95
+Pies and Puddings|Steamed Steak & Kidney Suet Pudding|with oyster|£18.95
+Pies and Puddings|Wild Boar & Mushroom Pie|with a puff pastry crust|£19.95
+Main Courses|Wild Rabbit Hotpot|with cider, onions & bacon|£22.95
+Main Courses|Darne of Loch Duart Salmon|with mussels, garam masala & cream|£23.95
+Main Courses|Rump of Lake District Lamb|with haggis bubble & squeak|£24.95
+Main Courses|Braised Pig's Cheeks & Black Pudding|with lentils & roast apple|£24.95
+Main Courses|Rib of Beef for two (850g)|with dauphinoise potatoes, roast shallot & Yorkshire Pudding|£32.50 (per person)
+Main Courses|Daube of Beef|with creamed potato, lardons & Chantenay carrots|£24.95
+Main Courses|Rump Steak|with mushrooms, garlic & parsley|£26.95
+Main Courses|Fillet of Halibut|with a mushroom duxelle, salsify, port & red wine sauce|£29.95
+Wild Game|Pheasant Curry|with basmati rice & poppadoms|£22.95
+Wild Game|Whole Roast Crown of Pheasant for two|with smoked sausage, bacon & braised carrots|£19.95 (per person)
+Wild Game|Roast Leg of Hare|with braised shoulder, prunes, chestnuts & mashed potato|£23.95
+Wild Game|Roast Crown of Wild Duck|with pressed leg, creamed Savoy cabbage & quince|£27.95
+Wild Game|Roast Red Leg Partridge|with sausage, swiss chard & roast squash|£25.95
+Wild Game|Loin of Venison|with red cabbage & roast celeriac|£36.95
+Wild Game|Blackgame, Ptarmigan, Woodcock, Pochard, Teal, Snipe & Widgeon|subject to availability and served traditionally. Game dishes may contain lead shot.|
+Vegetables & Salads|Red Cabbage||£4.50 (each)
+Vegetables & Salads|Swiss Chard||£4.50 (each)
+Vegetables & Salads|Puy Lentils||£4.50 (each)
+Vegetables & Salads|Buttered Greens||£4.50 (each)
+Vegetables & Salads|Potatoes (roast, mash or chips)||£4.50
+Vegetables & Salads|Green Salad||£8.50
+Vegetables & Salads|Beetroot & Goat's Cheese Salad||£8.95
+Puddings & Cheese|Apple Parfait|with autumn berries|£7.95
+Puddings & Cheese|Bakewell Tart|with clotted cream|£7.95
+Puddings & Cheese|Roast Spiced Pear|with honeycomb & chocolate sorbet|£7.95
+Puddings & Cheese|Sticky Toffee Pudding|with caramelised walnuts|£7.95
+Puddings & Cheese|Queen of Puddings|with marmalade|£7.95
+Puddings & Cheese|Golden Syrup Sponge Pudding|with custard|£7.95
+Puddings & Cheese|Custard Tart|with prunes|£7.95
+Puddings & Cheese|Apple & Quince Crumble|with custard|£7.95
+Puddings & Cheese|A Selection of Ice Creams & Sorbets|made on the premises|£7.95
+Puddings & Cheese|Apple Tart Tatin|with vanilla ice cream|£7.95
+Puddings & Cheese|Moist Chocolate & Hazelnut Cake (gluten free)|with praline crème fraîche|£7.95
+Puddings & Cheese|Cropwell Bishop Stilton|with a selection of biscuits|£11.95
+Puddings & Cheese|English Cheese Plate||£10.95
+Coffees & Leaf Teas|Cappuccino, espresso, americano, macchiato & regular||£3.50
+Coffees & Leaf Teas|Peppermint tea, fresh mint, Darjeeling, Ceylon & Earl Grey||£3.50
+House Cocktails|The Rules||£13.95
+House Cocktails|Kate Middleton's "Royal 29"||£14.95
+House Cocktails|A Kiss for Lillie||£15.95
+|London Pride - Draught Guinness||£5.95
+|Black Velvet|Champagne & Guinness|£11.95
+Chocolate Truffles||£3.50
 
 Metadata,
 restaurantName,Rules
-location,picadilly london
+location,Picadilly
 website,rules.com
-cuisine,british 
+cuisine,British
